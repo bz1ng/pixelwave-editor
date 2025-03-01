@@ -20,7 +20,7 @@ Transform your photos into stunning pixel art with **PixelWave Editor**, a retro
 
 1. **Clone the repository**:
    ```bash
-   git clone https://github.com/your-username/pixelwave-editor.git
+   git clone https://github.com/bz1ng/pixelwave-editor.git
    cd pixelwave-editor
    ```
 2. **Install dependencies**:
