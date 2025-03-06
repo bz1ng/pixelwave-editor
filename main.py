@@ -11,7 +11,7 @@ class PixelPhotoEditor:
         self.root = root
         self.root.title("Pixelated Photo Editor")
         self.root.geometry("1000x700")
-        
+
         self.original_image = None
         self.working_image = None  # Downscaled version for preview
         self.processed_image = None
